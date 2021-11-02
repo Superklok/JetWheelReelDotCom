@@ -2,7 +2,7 @@ version: "2.4"
 
 services:
   app:
-    image: jetwheelreeldotcom:1.5.8
+    image: jetwheelreeldotcom:1.6.1
     build: 
       context: .
     ports:
