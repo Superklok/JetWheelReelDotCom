@@ -1,4 +1,4 @@
-# Jet Wheel Reel (English Version) v1.6.5
+# Jet Wheel Reel (English Version) v1.6.6
 <br />
 
 ## Basic Root User Deployment Guide For App Evaluation
@@ -81,7 +81,7 @@
 <br />
 <br />
 
-### 7. Install dependancies:
+### 7. Install dependencies:
 `cd JetWheelReelDotCom/`
 <br />
 
