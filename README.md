@@ -1,4 +1,4 @@
-# Jet Wheel Reel (English Version) v1.6.6
+# Jet Wheel Reel (English Version) v1.6.8
 <br />
 
 ## Basic Root User Deployment Guide For App Evaluation

@@ -1,10 +1,10 @@
-FROM node:17.0.1 as base
+FROM node:17.2.0 as base
 LABEL org.opencontainers.image.vendor="Superklok Labs"
 LABEL org.opencontainers.image.authors="trev@superklok.com"
 LABEL org.opencontainers.image.title="JetWheelReelDotCom"
 LABEL org.opencontainers.image.description="Jet Wheel Reel (English)"
-LABEL org.opencontainers.image.version="1.6.6"
-LABEL org.opencontainers.image.created="2021-11-28"
+LABEL org.opencontainers.image.version="1.6.8"
+LABEL org.opencontainers.image.created="2021-12-11"
 LABEL org.opencontainers.image.url="https://hub.docker.com/r/superklok/jetwheelreeldotcom"
 LABEL org.opencontainers.image.source="https://github.com/Superklok/JetWheelReelDotCom"
 LABEL org.opencontainers.image.licenses="ISC"
