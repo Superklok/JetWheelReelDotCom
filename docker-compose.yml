@@ -2,12 +2,13 @@ version: "3.8"
 
 services:
   app:
-    image: superklok/jetwheelreeldotcom:1.6.9
+    image: superklok/jetwheelreeldotcom:1.6.11
     build: 
       context: .
+      target: prod
     ports:
       - "80:80"
-    command: node app.js
+    command: npm start
     volumes:
       - .:/app
     environment:
