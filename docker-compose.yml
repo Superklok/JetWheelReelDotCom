@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app:
-    image: jetwheelreeldotcom:1.6.8
+    image: superklok/jetwheelreeldotcom:1.6.9
     build: 
       context: .
     ports:
